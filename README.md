@@ -20,7 +20,7 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [X] Create a div to display your songs
 - [X] Create an array to store your song names
 - [X] Create a loop to display your song names
-- [ ] Repeat these steps for song artist, song length, image, and link
+- [X] Repeat these steps for song artist, song length, image, and link
 
 #### Wrap
 - [ ] Push your changes!
